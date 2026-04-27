@@ -11,8 +11,7 @@ My current focus is on building applied projects in Python and SQL that bridge t
 Feel free to explore my repositories I'm always happy to discuss my work and ideas.
 
 ## Research Topics I Am Interested In
-
-* Applied Machine Learning and Predictive Modeling  
+- Applied Machine Learning and Predictive Modeling  
 - Data Analysis and Statistical Inference  
 - Optimization and Operations Research  
 - Decision-Making Under Uncertainty  
