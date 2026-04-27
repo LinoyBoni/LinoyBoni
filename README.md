@@ -10,3 +10,9 @@ My current focus is on building applied projects in Python and SQL that bridge t
 
 Feel free to explore my repositories I'm always happy to discuss my work and ideas.
 
+## Tech Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
