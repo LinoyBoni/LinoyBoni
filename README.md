@@ -45,9 +45,7 @@ Feel free to explore my repositories I'm always happy to discuss my work and ide
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="28" title="Jupyter"/>
 <img src="https://img.icons8.com/color/48/google-colab.png" width="28" title="Google Colab"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
-width="28" title="MATLAB" style="padding:6px; background:#f7f7f7; border-radius:10px; border:1px solid #e6e6e6; box-shadow:0 1px 3px rgba(0,0,0,0.05);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="28" title="MATLAB"/>
 
 </div>
 
