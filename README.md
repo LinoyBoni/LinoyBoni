@@ -18,7 +18,6 @@ Feel free to explore my repositories I'm always happy to discuss my work and ide
 - Decision-Making Under Uncertainty  
 - Data-Driven Systems and Business Analytics  
 - Time Series Analysis and Forecasting  
-- Anomaly Detection and Pattern Discovery  
 
 
 
