@@ -39,3 +39,13 @@ Feel free to explore my repositories I'm always happy to discuss my work and ide
 <img src="https://img.icons8.com/color/48/google-colab.png" width="32" title="Google Colab"/>
 
 </div>
+
+
+<!-- NumPy -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+width="32"
+title="NumPy"
+style="padding:6px; background:#f7f7f7; border-radius:10px; border:1px solid #e6e6e6; box-shadow:0 1px 3px rgba(0,0,0,0.05);"/>
+
+<!-- Matplotlib -->
+
