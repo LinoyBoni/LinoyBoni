@@ -1,4 +1,3 @@
-<summary>About Me </summary>
 <Header>About Me </Header>
 
 🧠 Quantitative-minded Data Science & Machine Learning student at Jerusalem College of Technology, with a strong interest in statistical modeling, optimization, and data-driven systems.
