@@ -10,6 +10,14 @@ My current focus is on building applied projects in Python and SQL that bridge t
 
 Feel free to explore my repositories I'm always happy to discuss my work and ideas.
 
+## Research Topics I Am Interested In
+
+
+
+
+
+
+
 ## Tech Stack
 
 <div style="display:flex; flex-wrap:wrap; gap:8px; align-items:center;">
