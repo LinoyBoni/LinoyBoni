@@ -4,6 +4,7 @@
 I am particularly passionate about studying structured data using mathematical reasoning, statistical inference, and machine learning methods.
 
 My current focus is on building applied projects in Python and SQL that bridge theoretical concepts in statistics and optimization with real-world analytical problems.
+
 📈 I enjoy working with data, graphs, and quantitative models to uncover patterns and translate them into meaningful insights.
 
 Feel free to explore my repositories. I am always happy to discuss my work and ideas.
