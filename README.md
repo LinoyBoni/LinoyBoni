@@ -1,5 +1,5 @@
-<details>
 <summary>About Me </summary>
+<Header>About Me </Header>
 
 🧠 Quantitative-minded Data Science & Machine Learning student at Jerusalem College of Technology, with a strong interest in statistical modeling, optimization, and data-driven systems.
 
@@ -11,4 +11,3 @@ My current focus is on building applied projects in Python and SQL that bridge t
 
 Feel free to explore my repositories I'm always happy to discuss my work and ideas.
 
-</details>
