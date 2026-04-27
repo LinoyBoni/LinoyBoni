@@ -12,7 +12,8 @@ Feel free to explore my repositories I'm always happy to discuss my work and ide
 
 ## Research Topics I Am Interested In
 - Applied Machine Learning and Predictive Modeling  
-- Data Analysis and Statistical Inference  
+- Data Analysis and Statistical Inference
+- Machine Learning and Data Mining 
 - Optimization and Operations Research  
 - Decision-Making Under Uncertainty  
 - Data-Driven Systems and Business Analytics  
